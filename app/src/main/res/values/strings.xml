@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MapPrj</string>
+    <string name="web_server_protocol">http</string>
+    <string name="web_server_ip">192.168.35.62</string>
+    <string name="web_server_port">8091</string>
+</resources>
